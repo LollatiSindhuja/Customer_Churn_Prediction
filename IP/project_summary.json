@@ -1,0 +1,13 @@
+{
+    "project_name": "Customer Churn Prediction",
+    "dataset": "Telco Customer Churn",
+    "total_customers": 7043,
+    "churn_rate": 0.2653698707936959,
+    "best_model": "Logistic Regression",
+    "accuracy": 0.8005677785663591,
+    "key_findings": [
+        "Month-to-month contracts have highest churn",
+        "New customers are more likely to churn",
+        "Higher monthly charges increase churn risk"
+    ]
+}
